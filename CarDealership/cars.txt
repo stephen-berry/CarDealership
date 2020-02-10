@@ -1,0 +1,25 @@
+Toyota     blue   SEDAN   GAS_ENGINE      9.5  500 2WD 25000
+Honda      red    SPORTS  GAS_ENGINE      9.2  450 2WD 30000
+Kia        white  MINIVAN GAS_ENGINE      9.7  550 2WD 20000
+BMW        black  SEDAN   GAS_ENGINE      9.6  600 AWD 55000
+Tesla      red    SEDAN   ELECTRIC_MOTOR  9.1  425 AWD 85000  30
+Chevy      red    MINIVAN GAS_ENGINE      9.25 475 2WD 40000
+ChevyVolt  green  SEDAN   ELECTRIC_MOTOR  8.9  375 AWD 37000  45
+Bentley    black  SEDAN   GAS_ENGINE      9.8  575 2WD 150000
+NissanLeaf green  SEDAN   ELECTRIC_MOTOR  8.8  325 AWD 32000  55
+SteveyMobile blue SEDAN   GAS_ENGINE      4.0  1000 AWD 10
+McChickenRacer red SPORTS ELECTRIC_MOTOR  1.2  5000 2WD 100000 5
+Mongoose   grey   SEDAN   GAS_ENGINE      10.0 420  AWD 35000 
+Tank       CamoGreen MINIVAN GAS_ENGINE   0.5  2000 AWD 80000
+Reverant   red    SPORTS  ELECTRIC_MOTOR  5.8  670  AWD 55000 46
+HotShot    white  SPORTS  GAS_ENGINE 	  7.1  540 2WD  39000
+X-Devil    red    SPORTS  GAS_ENGINE      8.7  900 AWD  66600
+Endo       green  SUV     ELECTRIC_MOTOR  8.4  500 AWD  84000 100
+Octane     silver SEDAN   GAS_ENGINE      4.8  12  2WD  380
+Dominus    rainbow MINIVAN GAS_ENGINE     5.4  400 AWD  6000
+Donkey     brown  SUV     ELECTRIC_MOTOR  9.8  8   2WD  45    1
+Zebra      blackandwhite  SPORTS GAS_ENGINE 9.4 200 AWD 20
+Prius      red    MINIVAN ELECTRIC_MOTOR  8.0  50   AWD  400000 5
+McDonaldsTruck cyan SUV   GAS_ENGINE      1.1  202 2WD  2
+Tesla orange SEDAN ELECTRIC_MOTOR 10.0 300 AWD 300000 15
+ShoppingCart tin SPORTS GAS_ENGINE 10.0  2 AWD 1
